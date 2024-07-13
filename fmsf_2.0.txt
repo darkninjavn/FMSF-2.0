@@ -211,7 +211,6 @@ zippyshare.com###qrCode ~ a[href$="1131386.html"]
 zippyshare.com##.center_ad
 ! ============================== General adverts ==============================
 !/adv/*
--ads/
 -banner/$image
 -quang-cao/
 .com/qc/*
@@ -881,7 +880,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||pioneeringad.com^$third-party
 ||pixfuture.net^
 ||plarium.com^$popup
-||platform.twitter.com/widgets
 ||plugrush.com^
 ||po.st/static/*$third-party
 ||polyad.net^
