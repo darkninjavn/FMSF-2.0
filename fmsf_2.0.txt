@@ -18,7 +18,6 @@
 ###right_float_ads_content
 ###rightAdsBanner
 ##.above-player
-##.ad
 ##.adsbygoogle
 ##.float-ads-left
 ##.float-ads-right
