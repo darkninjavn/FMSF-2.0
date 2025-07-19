@@ -222,7 +222,6 @@ zippyshare.com##.center_ad
 /ad.php?
 /ad_manage/*
 /adpost_
-/ads-
 /ads.$image,xmlhttprequest
 /ads.php
 /ads/*
